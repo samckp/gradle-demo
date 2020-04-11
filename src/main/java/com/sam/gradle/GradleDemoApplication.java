@@ -8,7 +8,7 @@ public class GradleDemoApplication {
 
 	public static void main(String[] args) {
 
-		System.out.println("Welcome Gradle !!");
+		System.out.println("Welcome to Gradle !!");
 		SpringApplication.run(GradleDemoApplication.class, args);
 	}
 
